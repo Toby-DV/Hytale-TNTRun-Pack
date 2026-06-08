@@ -1,0 +1,14 @@
+{
+  "Type": "Selector",
+  "Selector": {
+    "Id": "AOECircle",
+    "Offset": {
+      "Y": -1
+    }
+  },
+  "HitBlock": "BreakBlocks",
+  "Next": {
+    "Type": "Simple"
+  },
+  "IgnoreOwner": true
+}

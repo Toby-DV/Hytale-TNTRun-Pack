@@ -1,0 +1,12 @@
+{
+    "Type":  "Variant",
+    "Reference": "TemplateTestChicken",
+    "Modify": {
+        "MaxHealth": 100,
+        "Appearance": "Chicken",
+        "AbsoluteDetectionRange": 1000,
+        "LeashEnabled": false,
+        "ViewRange": 1000,
+        "ViewSector": 360
+    }
+}

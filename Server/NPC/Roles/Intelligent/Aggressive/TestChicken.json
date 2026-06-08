@@ -1,0 +1,9 @@
+{
+    "Type":  "Variant",
+    "Reference": "TemplateTestChicken",
+    "Modify": 
+    {
+        "MaxHealth": 100,
+        "Appearance": "Chicken"
+    }
+}

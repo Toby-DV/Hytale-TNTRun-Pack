@@ -1,0 +1,21 @@
+{
+  "Type": "Charging",
+  "Effects": {
+    "FirstPersonParticles": [
+      {
+        "SystemId": "Firework_Mix3"
+      }
+    ],
+    "WaitForAnimationToFinish": true,
+    "ClearAnimationOnFinish": true,
+    "LocalSoundEventId": "SFX_Fireball_Death"
+  },
+  "AllowIndefiniteHold": true,
+  "MouseSensitivityAdjustmentTarget": 1,
+  "DisplayProgress": true,
+  "Next": {
+    "1.2": {
+      "Parent": "TestClubChargeFireball"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "Type": "Variant",
+    "Reference": "TemplateEdibleCritter",
+    "Modify": {
+        "Appearance": "Rat",
+        "WalkSpeed": 5,
+        "MaxHealth": 20,
+        "NameTranslationKey": {"Compute": "NameTranslationKey"}
+    },
+    "Parameters": {
+        "NameTranslationKey": {
+            "Value": "server.npcRoles.Rat.name",
+            "Description": "Translation key for NPC name display"
+        }
+    }
+}

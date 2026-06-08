@@ -1,0 +1,14 @@
+{
+  "Tags": {
+    "Attack": [
+      "Ranged"
+    ]
+  },
+  "Interactions": [
+    "Spellbook_Primary_CC",
+    {
+      "Type": "SpawnDeployableFromRaycast",
+      "Parent": "Weapon_Crossbow_Shot_Standard_Projectile"
+    }
+  ]
+}

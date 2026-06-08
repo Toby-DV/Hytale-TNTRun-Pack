@@ -1,0 +1,8 @@
+{
+  "Type": "ChangeStat",
+  "Behaviour": "Set",
+  "Entity": "User",
+  "StatModifiers": {
+    "Stamina": 100
+  }
+}

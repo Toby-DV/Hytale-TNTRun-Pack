@@ -1,0 +1,19 @@
+{
+  "Type": "Selector",
+  "Selector": {
+    "Id": "AOECylinder",
+    "Range": 1,
+    "Offset": {
+      "Y": -1
+    },
+    "Height": 1
+  },
+  "HitBlock": "Break_Container",
+  "Next": {
+    "Type": "Simple"
+  },
+  "Failed": {
+    "Type": "Simple"
+  },
+  "IgnoreOwner": true
+}

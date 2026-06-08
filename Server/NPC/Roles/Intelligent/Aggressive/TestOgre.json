@@ -1,0 +1,9 @@
+{
+    "Type":  "Variant",
+    "Reference": "TemplateOgre",
+    "Modify": 
+    {
+        "MaxHealth": 100,
+        "Appearance": "Goblin"
+    }
+}
